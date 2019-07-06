@@ -1,0 +1,1 @@
+print('incepem cu listele')
