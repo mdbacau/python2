@@ -3,12 +3,12 @@ make = "Xiaomi"
 model = "Redmi Note 7"
 year = 2019
 store_name = make + ' ' + model + ' ' + str(year) + ' '
-print (store_name)
+print(store_name)
 
 #[start:stop:jump] pentru a selecta caractere dintr-o variabila
 temp_name = store_name[0:]
 store_name_2 = 'Reducere!' + ' ' + temp_name
-print (store_name_2)
+print(store_name_2)
 
 #.lower() sau .upper()
 store_name_lowercase = store_name_2.lower()
@@ -23,7 +23,7 @@ print(descriere_meta)
 print('This is a string {}'.format('INSERTED'))
 
 #Putem da shortcuts la variable, a='plm', b='plt', etc si in {} doar numim shortcutul
-print ('The {2} {1} {0}'.format('fox','brown','quick'))
+print('The {2} {1} {0}'.format('fox','brown','quick'))
 print('The' + ' ' + make[0:] + ' ' + '{b} {q}'.format(b='brown', q='quick'))
 
 #Putem folosi {p:width:deep si f la sfarsit ca sa reducem la cate zecimale vrem
