@@ -1,1 +1,1 @@
-pit ('hai ca invatam si git')
+print ('hai ca invatam si git')
