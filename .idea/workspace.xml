@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1390dd46-5b06-4ca7-b9b1-6fe2e9cec10c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/methods and objects/methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods and objects/functpract.py" beforeDir="false" afterPath="$PROJECT_DIR$/methods and objects/functpract.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/methods and objects/functpract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="66" column="73" lean-forward="true" selection-start-line="66" selection-start-column="73" selection-end-line="66" selection-end-column="73" />
+            <state relative-caret-position="902">
+              <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -180,11 +179,12 @@
       <workItem from="1562511099103" duration="22000" />
       <workItem from="1562511143697" duration="7625000" />
       <workItem from="1562693249471" duration="11807000" />
+      <workItem from="1562788988512" duration="2691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40105000" />
+    <option name="totallyTimeSpent" value="42796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,8 +197,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4958124" visible="true" weight="0.2920712" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4958124" visible="true" weight="0.29692557" />
       <window_info id="Structure" order="1" sideWeight="0.5041876" side_tool="true" weight="0.28457233" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="0" />
@@ -412,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/methods and objects/functpract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="66" column="73" lean-forward="true" selection-start-line="66" selection-start-column="73" selection-end-line="66" selection-end-column="73" />
+        <state relative-caret-position="902">
+          <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
         </state>
       </provider>
     </entry>
